@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vite/
+.env
+.claude/
+ai-expert-source.md
+ai-expert-source.zip
+for codex/
